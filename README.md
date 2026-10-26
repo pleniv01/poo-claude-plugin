@@ -73,6 +73,17 @@ Poo is operated by Magichaus. This skill is intended for adults and is independe
 of Anthropic. It provides review guidance, not legal advice or a guarantee of
 deletion or privacy. No private export or application source is bundled.
 
+## Publisher identity and directory review
+
+Poo.ai is the website and product operated by Magichaus at https://poo.ai.
+The plugin identifier `poo-ai`, display name `Poo.ai`, and publisher name identify
+that service. This plugin is not affiliated with, endorsed by, or connected to
+Calil (カーリル for AI / `caliljp`), Pomo, or Poof.
+
+The directory's automated name-similarity check flagged those three listings.
+We have retained our product's name so reviewers can assess its identity and
+presentation directly. This clarification does not claim directory approval.
+
 ## License
 
 The [MIT License](LICENSE) covers these plugin instructions and documentation.

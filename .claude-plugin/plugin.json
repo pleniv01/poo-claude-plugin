@@ -1,7 +1,7 @@
 {
   "name": "poo-ai",
   "displayName": "Poo.ai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Review what you've shared with AI, separate evidence from guesses, and plan a private local export audit with Poo.ai.",
   "author": { "name": "Poo.ai", "url": "https://poo.ai" },
   "homepage": "https://poo.ai",
